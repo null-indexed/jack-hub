@@ -1,0 +1,24 @@
+/* Shared look for Jack's spaces: AI roadmap, Workshop, Things I've built. Matches built.html. */
+:root{--paper:#FBF8F2;--raised:#F3EFE5;--ink:#1A2130;--dim:#5A6478;--rule:#E4DCC9;--teal:#1E7A66;--tealsoft:#D4E8E1;--warn:#9A4A12;--warnsoft:#F6E2CF}
+@media (prefers-color-scheme:dark){:root{--paper:#0F1419;--raised:#171E27;--ink:#E8DFC9;--dim:#8A94A6;--rule:#2A313D;--teal:#4BB89E;--tealsoft:#1E3B33;--warn:#F0A46A;--warnsoft:#3A2717}}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 'Inter Tight',system-ui,sans-serif}
+main{max-width:720px;margin:0 auto;padding:24px 16px 64px}
+a{color:var(--teal)} .back{display:inline-block;margin-bottom:16px;text-decoration:none;font-size:14px}
+h1,h2,h3{font-family:'Fraunces',Georgia,serif;line-height:1.2} h1{font-size:30px;margin:0 0 4px} h2{font-size:21px;margin:0 0 4px} h3{font-size:17px;margin:0 0 6px}
+h1+p{color:var(--dim);margin-top:0}
+.dim{color:var(--dim)} code{font-size:14px;background:var(--raised);padding:1px 5px;border-radius:5px}
+.box{margin-top:20px;padding:14px 16px;border-radius:12px;background:var(--tealsoft);font-size:15px} .box p{margin:6px 0}
+.box.warn{background:var(--warnsoft)} .box.warn h3{color:var(--warn)}
+.level,.project{margin-top:28px;padding:20px;border:1px solid var(--rule);border-radius:14px;background:var(--raised)}
+.meta{font-size:13px;color:var(--dim);margin:0 0 6px;letter-spacing:.02em}
+.level p,.project p{margin:8px 0}
+.checks{list-style:none;padding:0;margin:12px 0} .checks li{margin:8px 0}
+.checks label{display:block;position:relative;padding-left:30px;cursor:pointer}
+.checks input{position:absolute;left:0;top:3px;margin:0;width:18px;height:18px;accent-color:var(--teal)}
+.check{padding-top:10px;border-top:1px solid var(--rule);font-size:15px}
+.logtitle{margin-top:48px;padding-top:20px;border-top:1px solid var(--rule)}
+.jack-notes{margin-top:8px} .jack-notes h2{font-size:19px;margin:24px 0 4px} .jack-notes h3{margin:20px 0 4px}
+.jack-notes img{max-width:100%;border-radius:10px} .jack-notes .tick{color:var(--teal)}
+.jack-notes hr,.rule{border:0;border-top:1px solid var(--rule);margin:24px 0}
+ul{padding-left:20px} li{margin:4px 0}
+.edit{display:inline-block;margin-top:8px;padding:8px 16px;border-radius:999px;background:var(--teal);color:var(--paper);text-decoration:none;font-weight:600;font-size:15px}

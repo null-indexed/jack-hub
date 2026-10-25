@@ -101,11 +101,19 @@ if (vt) {
   r.href = 'materials/resources.html';
   r.textContent = 'Resources';
   vt.appendChild(r);
-  const b = document.createElement('a');
-  b.className = 'view-btn resources-link';
-  b.href = 'materials/built.html';
-  b.textContent = "Things I've built";
-  vt.appendChild(b);
+  // Jack's own spaces sit on a second row so the header doesn't overflow on a phone.
+  const mine = document.createElement('div');
+  mine.className = 'view-toggle my-spaces';
+  mine.style.cssText = 'display:flex;flex-wrap:wrap;width:fit-content;max-width:100%;margin-top:8px';
+  vt.style.flexWrap = 'wrap';
+  [['materials/built.html', "Things I've built"], ['materials/ai-roadmap.html', 'AI roadmap'], ['materials/workshop.html', 'Workshop']].forEach(([href, label]) => {
+    const a = document.createElement('a');
+    a.className = 'view-btn resources-link';
+    a.href = href;
+    a.textContent = label;
+    mine.appendChild(a);
+  });
+  vt.after(mine);
 }
 
 if ('serviceWorker' in navigator) {
