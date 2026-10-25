@@ -101,6 +101,11 @@ if (vt) {
   r.href = 'materials/resources.html';
   r.textContent = 'Resources';
   vt.appendChild(r);
+  const b = document.createElement('a');
+  b.className = 'view-btn resources-link';
+  b.href = 'materials/built.html';
+  b.textContent = "Things I've built";
+  vt.appendChild(b);
 }
 
 if ('serviceWorker' in navigator) {
