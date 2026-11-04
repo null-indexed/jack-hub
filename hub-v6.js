@@ -10,6 +10,7 @@ const MATERIALS = {
   'sci-y9-a-1': ['science-y9-biology-organelles', 'Biology 1.1: Cell organelles'],
   'sci-y9-a-2': ['science-y9-chemistry-particles', 'Chemistry 1.1: The particle model'],
   'sci-y9-a-3': ['science-y9-physics-particles', 'Physics 1.1: Particles and density'],
+  'sci-y9-s-1': ['science-y9-biology-dna', 'Biology: DNA, nucleotides and base pairs'],
   'sci-y9-s-2': ['science-y9-chemistry-atoms', 'Chemistry: atoms, the periodic table and atomic models'],
   'y9-a-2': ['maths-y9-equations-and-percentages', 'Percentages, simplifying and solving equations'],
   'rs-y9-a-1': ['rs-y9-life-after-death', 'What happens when we die?'],
@@ -108,6 +109,11 @@ if (vt) {
   hr.href = 'materials/how-to-revise.html';
   hr.textContent = 'How to revise';
   vt.appendChild(hr);
+  const tp = document.createElement('a');
+  tp.className = 'view-btn resources-link';
+  tp.href = 'materials/revision-plan.html';
+  tp.textContent = 'Test plan';
+  vt.appendChild(tp);
   // Jack's own spaces sit on a second row so the header doesn't overflow on a phone.
   const mine = document.createElement('div');
   mine.className = 'view-toggle my-spaces';
