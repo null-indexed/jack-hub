@@ -114,6 +114,11 @@ if (vt) {
   tp.href = 'materials/revision-plan.html';
   tp.textContent = 'Test plan';
   vt.appendChild(tp);
+  const sd = document.createElement('a');
+  sd.className = 'view-btn resources-link';
+  sd.href = 'materials/send-to-dad.html';
+  sd.textContent = 'Send to Dad';
+  vt.appendChild(sd);
   // Jack's own spaces sit on a second row so the header doesn't overflow on a phone.
   const mine = document.createElement('div');
   mine.className = 'view-toggle my-spaces';
