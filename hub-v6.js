@@ -91,6 +91,9 @@ openDetail = function (topic) {
   }
 };
 
+// Correction (5 Nov 2026, from Ed): Jack's maths teacher is Mr Boast. hub.js still says Mr Strzelec.
+subjects.maths.teacher = 'Mr Boast';
+
 // Re-render once so the wrapped versions draw the first screen.
 renderSubject();
 
