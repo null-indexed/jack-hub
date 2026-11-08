@@ -1,5 +1,5 @@
 // Minimal service worker: network first, falls back to cache when offline.
-const C='jack-hub-v6-12';
+const C='jack-hub-v6-13';
 self.addEventListener('install',e=>self.skipWaiting());
 self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
 self.addEventListener('fetch',e=>{

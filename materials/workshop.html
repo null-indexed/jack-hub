@@ -73,15 +73,43 @@
 </section>
 
 <section class="project" id="jailbreaking">
-  <p class="meta">Project with Dad</p>
+  <p class="meta">Project with Dad · Family AI Lab</p>
   <h2>Jailbreaking and rooting old tablets</h2>
-  <p>Jailbreaking (Apple) and rooting (Android) mean unlocking a device so you can change things the maker normally blocks. It's a great way to learn how operating systems work.</p>
-  <p>Before you start, know this: it can break a device for good, it ends any warranty, and it can make a device less secure. So only on old devices you own, never on your main phone, and never to get paid apps or games for free.</p>
-  <p class="dim">Dad's research on this is being added here. Until then, start by writing down the exact model and software version of each old tablet you have.</p>
+  <p>Jailbreaking (Apple) and rooting (Android) mean unlocking a device so you can change things the maker normally blocks. The point isn't jailbreaking for its own sake. It's understanding how a device works and safely changing one useful thing.</p>
+  <p>It can break a device for good, ends any warranty and can make it less secure. So: only devices we own, never your main phone, never a school or work device, and never to get paid apps or games for free.</p>
+
+  <h3>The plan: turn old devices into a retro console and an AI terminal</h3>
+  <p><strong>Track A, retro games on the Nook HD+.</strong> Get the old Barnes &amp; Noble Nook HD+ running an emulator, starting with one homebrew or legally owned game. Older consoles (NES, SNES, Game Boy, Master System, Mega Drive) are the likely fit. PS1 might be too slow, N64 almost certainly is. Then add a controller and a simple game launcher.</p>
+  <p><strong>Track B, a voice AI terminal.</strong> Turn an old tablet into a push-to-talk screen: you speak, it shows what it heard, and it reads the AI's answer out loud. The tablet is just the microphone, screen and speaker. The thinking happens on a proper computer. The old Samsung tablet might be better at this than the Nook. Later: launch games by voice.</p>
+
+  <h3>Step 1: what have we got?</h3>
+  <p>Nothing gets flashed until we know exactly what each device is and how to get it back if it goes wrong.</p>
   <ul class="checks">
-    <li><label><input type="checkbox" data-k="j1"> List every old tablet and phone you have: make, model, software version, and whether it still turns on.</label></li>
-    <li><label><input type="checkbox" data-k="j2"> For each one, find out: has it got anyone's account still on it? (If yes, see the rule at the top.)</label></li>
+    <li><label><input type="checkbox" data-k="j1"> Nook HD+ (model BNTV600): does it boot? Check the battery, Wi-Fi, storage, microphone, speakers, Bluetooth and the charging cable. Write down the software version.</label></li>
+    <li><label><input type="checkbox" data-k="j3"> Old Samsung Galaxy tablet: find the exact model number (it's in Settings, About) and Android version.</label></li>
+    <li><label><input type="checkbox" data-k="j4"> Old Android phones and Kindles: make, model, software version, and do they still turn on?</label></li>
+    <li><label><input type="checkbox" data-k="j2"> For each one: is anyone's account still on it? If yes, see the rule at the top.</label></li>
   </ul>
+
+  <h3>Step 2: learn to undo before you change anything</h3>
+  <ul class="checks">
+    <li><label><input type="checkbox" data-k="j5"> For the Nook, find out whether a new system can run from an SD card (easy to undo) or has to be installed inside it (harder to undo).</label></li>
+    <li><label><input type="checkbox" data-k="j6"> Back it up, and practise the recovery steps once before you need them.</label></li>
+    <li><label><input type="checkbox" data-k="j7"> Pick one emulator and one homebrew game. Get that working before anything else.</label></li>
+  </ul>
+
+  <h3>The order to try devices in</h3>
+  <ol>
+    <li>Nook HD+ (retro games first)</li>
+    <li>Spare Android tablet (voice AI terminal)</li>
+    <li>Cheap Android TV or streaming stick</li>
+    <li>Spare Android phone with an unlockable bootloader</li>
+    <li>Anything harder, only after a recovery has worked</li>
+  </ol>
+
+  <h3>What you'll learn</h3>
+  <p>How to identify a device and its firmware, backups and recovery, file systems, USB and debug connections, the command line, networking, simple scripts, and writing down what you changed so you can undo it.</p>
+  <p class="dim">We haven't checked yet whether these exact devices are supported by any custom software. Find that out first, from the device's own community pages, and check anything an AI tells you against them. Log what you find in your workshop log below.</p>
 </section>
 
 <section class="project">
