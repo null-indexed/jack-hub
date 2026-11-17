@@ -11,6 +11,13 @@ Where to go, by subject. Use these to check your own work and practise, not to c
 | CGP revision guides and workbooks | Physical books, to get off the screen. Buy the version for the right board and tier. | All subjects | [cgpbooks.co.uk](https://www.cgpbooks.co.uk) |
 | Past papers and mark schemes | The real thing. Do a paper, then mark it yourself against the official mark scheme. | All exam subjects | See exam board links in Part 2 |
 | Mark scheme walkthrough videos | Watch someone compare an answer with the mark scheme line by line, to learn what earns marks. Search YouTube for the subject, board and "mark scheme walkthrough". | All exam subjects | YouTube |
+| Gizmo AI | Turns a topic sheet or your notes into flashcards and quiz games, with rewards. Upload what the teacher gives you before a topic test. | All subjects | [Gizmo app](https://apps.apple.com/gb/app/save-all/id1610516671) (or search "Gizmo AI" in your app store) |
+| NotebookLM | Upload your notes and the topic sheet, then ask it to quiz you with exam-style questions. Your Gemini study notebook does the same job. | All subjects | [notebooklm.google.com](https://notebooklm.google.com) |
+| Save My Exams | Revision notes and exam questions sorted by board and topic. Some is free; the rest needs a paid plan. | Sciences (OCR Gateway), English, Business | [savemyexams.com](https://www.savemyexams.com) |
+| Physics and Maths Tutor | Free notes and past paper questions sorted by topic. | Maths, sciences | [physicsandmathstutor.com](https://www.physicsandmathstutor.com) |
+| YouTube literature channels | Set texts and poems explained, scene by scene. Good before reading a new chapter or act. | English Literature | Start with Mr Bruff and Mr Salles (Part 2) |
+
+Her first rule: know your exam board and read the specification, the official list of what can come up. Your boards are AQA for maths, English and RS, OCR Gateway for science, and Edexcel for history, business and DT.
 
 How to use them together: learn a topic (Seneca or CGP), practise (Dr Frost for maths, Seneca quizzes for the rest), then test with a past paper question and mark it, using a walkthrough video if you're unsure why you lost marks.
 
@@ -32,6 +39,11 @@ How to use them together: learn a topic (Seneca or CGP), practise (Dr Frost for 
 - Science: the CGP OCR Gateway revision guides for Biology, Chemistry and Physics are already at home. The matching Exam Practice Workbooks are the next ones to get.
 - Maths: CGP GCSE Maths AQA Revision Guide and Workbook, Foundation.
 - Always check the cover says the right board (AQA, OCR Gateway or Edexcel) and the right tier.
+
+### Gizmo and NotebookLM: how to use them
+
+- Use them to test yourself, not to write answers for you. Upload your own notes or the teacher's topic sheet, then ask for flashcards or questions.
+- If you get one wrong, go back to your book or notes for that bit before trying again.
 
 ### Past papers and mark schemes: where to find them
 
