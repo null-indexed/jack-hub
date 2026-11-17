@@ -14,6 +14,41 @@ Where to go, by subject. Use these to check your own work and practise, not to c
 
 How to use them together: learn a topic (Seneca or CGP), practise (Dr Frost for maths, Seneca quizzes for the rest), then test with a past paper question and mark it, using a walkthrough video if you're unsure why you lost marks.
 
+### Dr Frost Maths: how to use it
+
+- Student accounts are free at [drfrost.org/students](https://www.drfrost.org/students). Ask Mr Boast first: if the school already uses Dr Frost, use the school login instead.
+- Best part for you: the past papers section has thousands of real AQA questions, Foundation tier included, and you can pick them by topic.
+- A good session: pick one topic Sparx or a test showed you're weak on, do 5 to 10 questions, and watch the video explainer on any you get wrong.
+
+### Seneca: which courses to pick
+
+- Free account at [senecalearning.com](https://senecalearning.com). Search for the subject, then pick the exam board, because the board changes the content.
+- Science: OCR Gateway (Biology, Chemistry, Physics, or Combined Science if the school enters you for that).
+- Maths: AQA, Foundation. English: AQA. RS: AQA. History, Business and DT: Edexcel.
+- Seneca re-tests what you got wrong, so short, regular sessions beat one long one.
+
+### CGP books: which ones
+
+- Science: the CGP OCR Gateway revision guides for Biology, Chemistry and Physics are already at home. The matching Exam Practice Workbooks are the next ones to get.
+- Maths: CGP GCSE Maths AQA Revision Guide and Workbook, Foundation.
+- Always check the cover says the right board (AQA, OCR Gateway or Edexcel) and the right tier.
+
+### Past papers and mark schemes: where to find them
+
+- Maths (AQA 8300, Foundation): [AQA past papers](https://www.aqa.org.uk/pastpapers), or the past papers section in Dr Frost.
+- Science (OCR Gateway: Biology J247, Chemistry J248, Physics J249): [Physics and Maths Tutor](https://www.physicsandmathstutor.com) lists them as "OCR (A)", which means Gateway. Also on [OCR's own site](https://www.ocr.org.uk).
+- English and RS: [AQA past papers](https://www.aqa.org.uk/pastpapers). History, Business and DT: [Pearson Edexcel](https://qualifications.pearson.com). Digital IT: Pearson's BTEC sample assessments.
+- The newest year is often kept back for teachers. If you can't find it, ask your teacher.
+
+### Mark scheme walkthroughs: how to do it
+
+1. Answer the question on paper first, without looking.
+2. Mark it yourself against the official mark scheme. Underline the exact words that earn each mark.
+3. Only then watch a walkthrough. Search YouTube for the subject, board, paper and year, plus "walkthrough", for example "OCR Gateway chemistry paper 1 2023 walkthrough".
+4. Write down the key words you missed. They go into your key words list.
+
+For English, Mr Bruff and Mr Salles (in Part 2) do this for exam answers.
+
 ## Part 2: Other useful resources
 
 ### All subjects
