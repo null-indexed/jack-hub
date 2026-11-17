@@ -13,11 +13,14 @@ Where to go, by subject. Use these to check your own work and practise, not to c
 | Mark scheme walkthrough videos | Watch someone compare an answer with the mark scheme line by line, to learn what earns marks. Search YouTube for the subject, board and "mark scheme walkthrough". | All exam subjects | YouTube |
 | Gizmo AI | Turns a topic sheet or your notes into flashcards and quiz games, with rewards. Upload what the teacher gives you before a topic test. | All subjects | [Gizmo app](https://apps.apple.com/gb/app/save-all/id1610516671) (or search "Gizmo AI" in your app store) |
 | NotebookLM | Upload your notes and the topic sheet, then ask it to quiz you with exam-style questions. Your Gemini study notebook does the same job. | All subjects | [notebooklm.google.com](https://notebooklm.google.com) |
-| Save My Exams | Revision notes and exam questions sorted by board and topic. Some is free; the rest needs a paid plan. | Sciences (OCR Gateway), English, Business | [savemyexams.com](https://www.savemyexams.com) |
-| Physics and Maths Tutor | Free notes and past paper questions sorted by topic. | Maths, sciences | [physicsandmathstutor.com](https://www.physicsandmathstutor.com) |
+| Save My Exams | Revision notes and short topic tests sorted by board. Some is free; the rest needs a paid plan. | Sciences (OCR Gateway), English, Business | [savemyexams.com](https://www.savemyexams.com), [OCR Gateway biology tests](https://www.savemyexams.com/gcse/biology/ocr/a-gateway/16/your-tests/) |
+| Physics and Maths Tutor | Free notes and past paper questions sorted by topic. | Maths, sciences | [physicsandmathstutor.com](https://www.physicsandmathstutor.com), [AQA maths questions by topic](https://www.physicsandmathstutor.com/maths-revision/gcse-questions-aqa) |
+| Medly AI | Paid. You answer exam questions and it marks them against the mark scheme and explains what you missed. Ask Dad before signing up. | Sciences, maths | [medlyai.com](https://www.medlyai.com) |
 | YouTube literature channels | Set texts and poems explained, scene by scene. Good before reading a new chapter or act. | English Literature | Start with Mr Bruff and Mr Salles (Part 2) |
 
 Her first rule: know your exam board and read the specification, the official list of what can come up. Your boards are AQA for maths, English and RS, OCR Gateway for science, and Edexcel for history, business and DT.
+
+Quick way to find a specification: search, or ask your AI, for the subject, board and "GCSE specification". For example "maths AQA GCSE 8300 specification" or "chemistry OCR Gateway J248 specification". Open the one on the exam board's own website.
 
 How to use them together: learn a topic (Seneca or CGP), practise (Dr Frost for maths, Seneca quizzes for the rest), then test with a past paper question and mark it, using a walkthrough video if you're unsure why you lost marks.
 
@@ -51,6 +54,7 @@ How to use them together: learn a topic (Seneca or CGP), practise (Dr Frost for 
 - Science (OCR Gateway: Biology J247, Chemistry J248, Physics J249): [Physics and Maths Tutor](https://www.physicsandmathstutor.com) lists them as "OCR (A)", which means Gateway. Also on [OCR's own site](https://www.ocr.org.uk).
 - English and RS: [AQA past papers](https://www.aqa.org.uk/pastpapers). History, Business and DT: [Pearson Edexcel](https://qualifications.pearson.com). Digital IT: Pearson's BTEC sample assessments.
 - The newest year is often kept back for teachers. If you can't find it, ask your teacher.
+- You don't need to buy mark schemes. The free ones on the exam board sites and Physics and Maths Tutor, plus YouTube walkthroughs, are plenty.
 
 ### Mark scheme walkthroughs: how to do it
 
