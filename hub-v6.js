@@ -112,16 +112,7 @@ if (vt) {
   hr.href = 'materials/how-to-revise.html';
   hr.textContent = 'How to revise';
   vt.appendChild(hr);
-  const tp = document.createElement('a');
-  tp.className = 'view-btn resources-link';
-  tp.href = 'materials/revision-plan.html';
-  tp.textContent = 'Test plan';
-  vt.appendChild(tp);
-  const sd = document.createElement('a');
-  sd.className = 'view-btn resources-link';
-  sd.href = 'materials/send-to-dad.html';
-  sd.textContent = 'Send to Dad';
-  vt.appendChild(sd);
+  // Test plan and Send to Dad left the header on 17 Nov 2026: Jack's Brain (Google Drive) now holds colours, plans and contact routes.
   // Jack's own spaces sit on a second row so the header doesn't overflow on a phone.
   const mine = document.createElement('div');
   mine.className = 'view-toggle my-spaces';
