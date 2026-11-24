@@ -23,3 +23,6 @@ h1+p{color:var(--dim);margin-top:0}
 ul{padding-left:20px} li{margin:4px 0}
 .edit{display:inline-block;margin-top:8px;padding:8px 16px;border-radius:999px;background:var(--teal);color:var(--paper);text-decoration:none;font-weight:600;font-size:15px}
 .project h3{margin-top:22px}
+.tag{display:inline-block;font-family:'Inter Tight',system-ui,sans-serif;font-size:12px;font-weight:600;padding:2px 9px;border-radius:999px;background:var(--warnsoft);color:var(--warn);vertical-align:middle;margin:0 2px}
+.tag.good{background:var(--tealsoft);color:var(--teal)}
+p.tag{margin:6px 0 4px}
