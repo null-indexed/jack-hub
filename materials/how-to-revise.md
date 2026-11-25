@@ -17,7 +17,7 @@ So: your exercise book is your revision guide. You have already done the work. R
 3. **Read the section in your book.** Read it, then read it again. Look at your diagrams.
 4. **Make notes again.** Write a revision card or a page: key words, a labelled diagram, any formula. In biology, label everything.
 5. **Fill the gaps, and only the gaps.** If something in your book doesn't make sense or is missing, look up just that bit: CGP book, Kerboodle, BBC Bitesize, Seneca. Add what you find to your notes.
-6. **Let the AI study notebook test you.** Ask it to quiz you and to tell you what you've missed. Don't ask it to write your notes for you (see below).
+6. **Let the AI study notebook test you.** Ask it to quiz you and to tell you what you've missed. It can also summarise a topic or condense your notes when you ask.
 7. **Tick it off and come back later.** In a few days, brain dump the same section again. Whatever you've forgotten is what you read next.
 
 Belinda: "Anything you're not sure about, just look at the bit that you're not sure about, don't take yourself right back to the beginning."
@@ -58,7 +58,7 @@ Then do the earliest test first, two or three sections a day, in short bursts. Y
 
 ## Using AI the right way
 
-AI is a navigator, not an answer machine. It should point you to the right page and ask you questions. If it writes your notes or summarises the chapter for you, you skip the bit that makes you remember.
+AI is your thinking partner. It can summarise a chapter or condense your notes whenever you ask. The remembering happens when you then test yourself on it, so ask it to quiz you afterwards.
 
 Good things to ask the study notebook:
 
@@ -66,11 +66,13 @@ Good things to ask the study notebook:
 - "Here is my brain dump on atomic models. What have I missed? Don't fill it in, just tell me what to look up."
 - "Which page in my sources explains how to work out the number of neutrons?"
 - "Which topics on my chemistry list have I not made notes on yet?"
+- "Summarise the Resurrection and the Ascension from my RE slides in 8 bullet points, then quiz me."
+- "Condense my notes on the particle model into one page."
 
 Things not to ask:
 
-- "Write my notes on the particle model."
-- "Summarise chapter 2 for me."
+- "Do my Sparx for me."
+- "Write my homework answers for me."
 - "What's the answer to question 4?"
 
 ## The resources you already have
