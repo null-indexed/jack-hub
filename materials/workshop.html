@@ -112,6 +112,40 @@
   <p class="dim">We haven't checked yet whether these exact devices are supported by any custom software. Find that out first, from the device's own community pages, and check anything an AI tells you against them. Log what you find in your workshop log below.</p>
 </section>
 
+<section class="project" id="rocky">
+  <p class="meta">Project with Dad · saved 25 November 2026</p>
+  <h2>Rocky, the AI desk robot</h2>
+  <p>Casey Grothaus builds a small AI desk robot. Out of the box it plays Rocky, the alien engineer from <em>Project Hail Mary</em>. You say "hey Rocky", it hears you, thinks with Claude, answers out loud, and its little screen face changes with its mood. All the code is free and open source (MIT licence), so we can learn from it, change it and build our own. It's also exactly the voice AI terminal from Track B above.</p>
+
+  <h3>Casey's links</h3>
+  <ul>
+    <li><a href="https://github.com/cgro00/desk-robot" target="_blank" rel="noopener">The code on GitHub (desk-robot)</a>: the robot's software, wiring notes and setup guide. Start with the README.</li>
+    <li><a href="https://github.com/cgro00" target="_blank" rel="noopener">Casey's GitHub profile</a></li>
+    <li><a href="https://caseygrothaus.com/projects/ai-desk-robot" target="_blank" rel="noopener">AI Desk Robot V1</a> and <a href="https://caseygrothaus.com/projects/ai-desk-robot-v2" target="_blank" rel="noopener">V2</a>: parts lists, photos and the build guides.</li>
+    <li><a href="https://caseygrothaus.com" target="_blank" rel="noopener">caseygrothaus.com</a>: all his projects.</li>
+    <li><a href="https://www.youtube.com/@CaseysDay" target="_blank" rel="noopener">YouTube: Casey.aicreates</a>: the build videos.</li>
+    <li><a href="https://instagram.com/casey.aicreates" target="_blank" rel="noopener">Instagram</a> and <a href="https://tiktok.com/@casey.aicreates" target="_blank" rel="noopener">TikTok</a>: short clips.</li>
+    <li><a href="https://on.link/caseyg" target="_blank" rel="noopener">All his links in one place</a>, including his Discord server, "The Workshop". Ask Dad before joining.</li>
+  </ul>
+
+  <h3>How Rocky works</h3>
+  <p>The robot itself is simple: a tiny ESP32 board with a microphone and camera built in, a small OLED screen for the face, two servo motors to move the head, and a speaker. The clever part runs as a Python program on a laptop, which he calls the brain. It listens for "hey Rocky", turns speech into text (Whisper), sends it to Claude, then speaks the answer. The brain works on its own too, with just the laptop's microphone and speakers, before you've built any hardware.</p>
+  <p>Things worth reading in the code: <code>server/brain/personality.py</code> (how Rocky talks, the fun file), <code>firmware/src/face.cpp</code> (how the face is drawn pixel by pixel) and <code>server/faces/rocky.json</code> (the face's shapes for each mood).</p>
+
+  <h3>What Dad has built so far</h3>
+  <p>A screen-only Rocky that runs inside Claude on Dad's account: a talk button, Casey's face and personality, and a deep robot voice. It's on Dad's account because Claude is for over 18s, so we use it together.</p>
+
+  <h3>Our build options</h3>
+  <ul class="checks">
+    <li><label><input type="checkbox" data-k="r1"> Read the README and watch the build videos together. Write down every part and what it does.</label></li>
+    <li><label><input type="checkbox" data-k="r2"> Run the brain on the laptop with no robot (Dad's AI key). Get "hey Rocky" working.</label></li>
+    <li><label><input type="checkbox" data-k="r3"> Change his personality or design a new face in the dashboard. Small change, test, log it.</label></li>
+    <li><label><input type="checkbox" data-k="r4"> Build V1: parts about $100 (roughly £80), build guide $13. Needs soldering and Dad to supervise.</label></li>
+    <li><label><input type="checkbox" data-k="r5"> Build V2: parts about $170, build guide $30, custom circuit boards and 3D printed parts.</label></li>
+  </ul>
+  <p class="dim">The film voice in Casey's videos is a fan-made copy on a paid site, for personal use only, so it stays at home. Each answer from the AI costs a tiny fraction of a penny. Prices are from Casey's pages on 25 November 2026 and may change.</p>
+</section>
+
 <section class="project">
   <p class="meta">Links worth knowing</p>
   <h2>Where to look things up</h2>
