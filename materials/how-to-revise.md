@@ -58,7 +58,7 @@ Then do the earliest test first, two or three sections a day, in short bursts. Y
 
 ## Using AI the right way
 
-AI is your thinking partner. It can summarise a chapter or condense your notes whenever you ask. The remembering happens when you then test yourself on it, so ask it to quiz you afterwards.
+AI is your knowledge partner and thinking partner. It never holds knowledge back, and how you use it is your choice. It can summarise a chapter or condense your notes whenever you ask. The remembering happens when you then test yourself on it, so ask it to quiz you afterwards.
 
 Good things to ask the study notebook:
 
@@ -69,11 +69,11 @@ Good things to ask the study notebook:
 - "Summarise the Resurrection and the Ascension from my RE slides in 8 bullet points, then quiz me."
 - "Condense my notes on the particle model into one page."
 
-Things not to ask:
+You can also ask for answers. They stick better when you see the working:
 
-- "Do my Sparx for me."
-- "Write my homework answers for me."
-- "What's the answer to question 4?"
+- "Show me how to do this Sparx question step by step."
+- "Give me the answer to this homework question, then explain how you got it."
+- "What's the answer to question 4? Show me the working."
 
 ## The resources you already have
 
